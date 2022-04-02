@@ -36,7 +36,7 @@
 
 - Test
 
->[Test](https://quinn0823.github.io/v10.0/test)
+>[Test](https://quinn0823.github.io/web_history/v10.0/test)
 
 - Code
 
